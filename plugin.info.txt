@@ -1,0 +1,6 @@
+base   alertbox
+author Steve Levine
+email  sjlevine29@gmail.com
+date   2015-03-2015
+name   Alert box
+desc   Bootstrap style alert boxes
