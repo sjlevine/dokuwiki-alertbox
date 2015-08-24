@@ -12,4 +12,4 @@ Simply use the following syntax:
 <alert success>Something bad happened</alert>
 ```
 
-
+![Screenshot](img/alertbox_screenshot.png)
